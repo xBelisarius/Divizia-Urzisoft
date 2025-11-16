@@ -1,4 +1,5 @@
 
+
 const int trigPin = 9;  
 const int echoPin = 10; 
 float duration, distance;  
